@@ -4,9 +4,10 @@
 情報・システム研究機構（ROIS）
 データサイエンス共同利用基盤施設
 ライフサイエンス統合データベースセンター（DBCLS）
+
 [仲里 猛留](http://data.dbcls.jp/~nakazato/)
-nakazato@dbcls.rois.ac.jp
-twitter: @chalkless
+ nakazato@dbcls.rois.ac.jp
+ twitter: @chalkless
 
 2017年8月24日 AJACS河内@関西医科大学
 
@@ -50,11 +51,11 @@ ABI PRISM&#174; 3100-Avant Genetic Analyzerより
   - 超並列
   - どんなの?
     - Illumina HiSeq  
-[![](http://togotv.dbcls.jp/pic/201105_GenomeSequencer_4.png)]()
+[![](https://dbarchive.biosciencedbc.jp/data/togo-pic/image/201105_GenomeSequencer_4.png)]()
     - Illumina MiSeq  
-[![](http://togotv.dbcls.jp/pic/201310_genomesequencer7.png)]()
+[![](https://dbarchive.biosciencedbc.jp/data/togo-pic/image/201310_genomesequencer7.png)]()
     - PacBio
-    [![](http://togotv.dbcls.jp/pic/201507_genomesequencer8_2.png)]()
+    [![](https://dbarchive.biosciencedbc.jp/data/togo-pic/image/201507_genomesequencer8_2.png)]()
     - Ion Torrent
 
     - Togo picture gallery ( http://togotv.dbcls.jp/ja/pics.html ) より
