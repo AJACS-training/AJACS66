@@ -83,7 +83,7 @@ ABI PRISM&#174; 3100-Avant Genetic Analyzerより
 
 
 ## 概略
-    [![](images/ajacs64.nakazato.pm.004.png)]()
+  [![](images/ajacs64.nakazato.pm.004.png)]()
 
 ## 参考リソース
 - 参考図書・その1 〜 実験もやる人向け
