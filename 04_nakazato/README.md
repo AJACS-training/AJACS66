@@ -198,9 +198,12 @@ ABI PRISM&#174; 3100-Avant Genetic Analyzerより
   [![](images/ajacs64.nakazato.pm.033.png)]()
 
 ## 実際の解析3−2：ChIP-Seq
+- ChIP-Atlas: http://chip-atlas.org/ （九州大・沖さん）　使い方動画もここにあり
 
 
 ## 実際の解析3−3：メタゲノム
+- MircobeDB.jp: http://microbedb.jp/
+
 
 ----
 
