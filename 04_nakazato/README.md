@@ -81,8 +81,18 @@ ABI PRISM&#174; 3100-Avant Genetic Analyzerより
     - 目的によって必要なデータ量も違う  [![](http://motdb.dbcls.jp/?plugin=ref&page=AJACS48%2Fnakazato&src=NGSreq.png)]()
     - 機器に合った利用を  [![](http://motdb.dbcls.jp/?plugin=ref&page=AJACS48%2Fnakazato&src=NGSinst.png)]()
 
+## 公共NGSデータベース
+  - Sequence Read Archive (SRA) というデータベース。NCBI（アメリカ）、EBI（ヨーロッパ）、DDBJ（日本）の3つでデータ交換をしている。
+  - SRA (NCBI)… [[例](https://www.ncbi.nlm.nih.gov/sra/?term=SRA540189)]
+  - ENA (European Nucleotide Archive, EBI)… [[例](http://www.ebi.ac.uk/ena/data/view/PRJNA376601)]
+  - DRA　(DDBJ sequence read archive)… [[例](http://trace.ddbj.nig.ac.jp/DRASearch/study?acc=SRP100645)]
+   - 試しに検索してみましょう： http://trace.ddbj.nig.ac.jp/DRASearch/　　（キーワードで検索 → TypeをStudyで絞り込み。生物種でも）
+  - [[DBCLS SRA](http://sra.dbcls.jp)] （DBCLS） … いろいろな観点（目的、機器、生物種）からの絞り込みが可能。改修+DDBJと統合中
+   - [[文献からの検索](http://sra.dbcls.jp/cgi-bin/publication.cgi)]
+   - 疾患からの検索・[[頻度](http://sra.dbcls.jp/cgi-bin/diseasefreq.cgi)]・[[階層構造表示](http://sra.dbcls.jp/cgi-bin/diseasetree.cgi)]
+   - [[生物種からの絞り込み例](http://sra.dbcls.jp/cgi-bin/taxon2study.cgi?type=&platform=&taxon_id=&taxon_tree=on&taxon_in=Bacillus+subtilis)] … 種→亜種・株、種→属→科の検索も可能
 
-## 概略
+## 解析の概略
   [![](images/ajacs64.nakazato.pm.004.png)]()
 
 ## 参考リソース
