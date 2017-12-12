@@ -1,4 +1,4 @@
-# AJACS64(AJACS尾張)
+# AJACS66(AJACS河内)
 
 ### 公式ウェブページ
 [統合データベース講習会:AJACS河内](http://events.biosciencedbc.jp/training/ajacs66)  
